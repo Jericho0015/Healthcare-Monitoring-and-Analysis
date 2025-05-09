@@ -11,3 +11,6 @@ The challenge is to develop a more dynamic and responsive approach that utilizes
 
 **Improved Health Monitoring: **Recommendations for targeted monitoring and intervention strategies that cater to the specific needs of each cluster, leading to more effective health management and better patient outcomes.
 
+
+**# Dataset**
+The dataset includes health metrics from 500 individuals, featuring variables such as age, gender, heart rate, blood pressure, respiratory rate, body temperature, and oxygen saturation, recorded over a specific period.
