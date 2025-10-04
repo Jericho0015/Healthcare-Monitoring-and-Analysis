@@ -66,37 +66,36 @@ All variables were collected over a specific monitoring period.
 ## 📊 Key Findings
 
 ### Gender Distribution
-![Gender Distribution](images/gender_distribution.png)  
+![Gender Distribution](https://github.com/Jericho0015/Healthcare-Monitoring-and-Analysis/blob/main/Visualizations%20Plots/Gender%20Distribution.PNG)  
 Nearly even split between male and female subjects, with males slightly higher at **51.2%**.  
 
 ### Correlation Matrix
-![Correlation Matrix](images/correlation_matrix.png)  
+![Correlation Matrix](https://github.com/Jericho0015/Healthcare-Monitoring-and-Analysis/blob/main/Visualizations%20Plots/Correlation.PNG)  
 No strong correlations among health metrics; all correlation values close to 0.  
 
 ### Heart Rate by Activity Level
-![Heart Rate by Activity](images/hr_activity.png)  
+![Heart Rate by Activity](https://github.com/Jericho0015/Healthcare-Monitoring-and-Analysis/blob/main/Visualizations%20Plots/Heart%20Rate%20by%20Activity%20Level.PNG)  
 - Increases from resting to walking.  
 - Minimal increase from walking to running.  
 - Outliers in resting heart rate indicate unusually high values for some individuals.  
 
 ### Blood Pressure Distribution
-![Blood Pressure Distribution](images/bp_distribution.png)  
+![Blood Pressure Distribution](https://github.com/Jericho0015/Healthcare-Monitoring-and-Analysis/blob/main/Visualizations%20Plots/Blood%20Pressure%20Distribution.PNG)  
 - **Systolic BP**: Wider spread, peaks around 120 mmHg and 140 mmHg.  
 - **Diastolic BP**: Narrower, peak around 80 mmHg.  
 
 ### Health Metrics by Gender
-![Heart Rate by Gender](images/hr_gender.png)  
-![Oxygen Saturation by Gender](images/oxy_gender.png)  
+![Heart Rate by Gender](https://github.com/Jericho0015/Healthcare-Monitoring-and-Analysis/blob/main/Visualizations%20Plots/Health%20metrics%20by%20Gender.PNG)   
 - Heart rate and oxygen saturation **similar for males and females**.  
 - Few outliers in oxygen saturation, but overall distribution unaffected.  
 
 ### Health Metrics by Sleep Quality & Stress Levels
-![Heart Rate & Oxygen by Sleep/Stress](images/sleep_stress.png)  
+![Heart Rate & Oxygen by Sleep/Stress](https://github.com/Jericho0015/Healthcare-Monitoring-and-Analysis/blob/main/Visualizations%20Plots/Analyze%20heart%20rate%20and%20oxygen%20saturation%20by%20sleep%20quality%20and%20stress%20levels.PNG)  
 - Heart rate remains fairly consistent; slight variation for poor sleep.  
 - Oxygen saturation slightly decreases from excellent to poor sleep, with some outliers.  
 
 ### Respiratory Rate & Body Temperature by Activity Level
-![Respiratory Rate & Body Temp](images/resp_temp_activity.png)  
+![Respiratory Rate & Body Temp](https://github.com/Jericho0015/Healthcare-Monitoring-and-Analysis/blob/main/Visualizations%20Plots/respiratory%20rate%20and%20body%20temperature%20by%20activity%20levelsPNG.PNG)  
 - Respiratory rate increases with higher activity (walking → running).  
 - Body temperature shows slight upward trend from resting to running.  
 - Outliers indicate individual variations.  
@@ -110,27 +109,6 @@ Patients were grouped for simplified analysis instead of clustering:
 - **Blood Pressure Category**: Normal, Elevated, Hypertension Stage 1, Hypertension Stage 2  
 - **Heart Rate Category**: Low, Normal, High  
 - **Oxygen Saturation Category**: Normal, Low  
-
----
-
-## 🖼️ Grouped Data Visualization
-### Distribution of Age Groups
-![Age Group Distribution](images/age_group.png)  
-Seniors largest, followed by Young, then Middle-aged.  
-
-### Blood Pressure Categories
-![Blood Pressure Categories](images/bp_category.png)  
-Most normal, fewer elevated or hypertensive, very few stage 2.  
-
-### Heart Rate Categories
-![Heart Rate Categories](images/hr_category.png)  
-Majority normal, few low or high.  
-
-### Oxygen Saturation Categories
-![Oxygen Saturation Categories](images/oxy_category.png)  
-Almost all normal, few low.  
-
-> **Note:** Replace the placeholder paths (`images/...`) with the actual filenames of your saved plots.  
 
 ---
 
